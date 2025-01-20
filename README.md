@@ -19,3 +19,9 @@ IMDB url: https://www.imdb.com/
 Rotten Tomatoes url: https://www.rottentomatoes.com/
 
 the dataset link : https://github.com/QUANTUM-CSBS/Envision/blob/main/FINAL_MOVIE_DATA.csv
+
+
+
+ROUND 2
+Documentation link : 
+Power bi data visualisation link : 
